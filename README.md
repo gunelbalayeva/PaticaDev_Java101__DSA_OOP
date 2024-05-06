@@ -1,4 +1,4 @@
-#  PaticaDev - Başlangıç Seviye Java ile Backend Web Development Patikası
+#  PaticaDevAcademy - Başlangıç Seviye Java ile Backend Web Development Patikası
 
 ###  1. Variable and data type
 ###  2. If/else, switch/case
@@ -11,8 +11,8 @@
 ###  10. Finally pr0ject : "MineSweeper"
 ###  11. OOP and UML
 
-# Certification :
+# Certification:
 ![photo1714987642](https://github.com/gunelbalayeva/PatikaDev_Frontend/assets/129526795/bf88a5d2-b491-4157-9ee5-714ee3b4d2b6)
 
- # Patica Dev Academy Profile :
+ # Patica Dev Academy Profile:
  ![photo1714986613](https://github.com/gunelbalayeva/PatikaDev_Frontend/assets/129526795/7fc6a808-56ac-4332-908f-43b149629c25)
