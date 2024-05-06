@@ -1,6 +1,8 @@
 #  PaticaDev - Başlangıç Seviye Java ile Backend Web Development Patikası
 
 ##  1. Variable and data type
+    - VucudKutleIndex
+    - KDV_hesablayanPrg
 ###  2. If/else, switch/case
 ###  3. Loop
 ###  4. Methods
