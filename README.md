@@ -1,4 +1,4 @@
-#  PaticaDevAcademy - Başlangıç Seviye Java ile Backend Web Development Patikası
+  #  PaticaDevAcademy - Başlangıç Seviye Java ile Backend Web Development Patikası
 
 ###  1. Variable and data type
 ###  2. If/else, switch/case
